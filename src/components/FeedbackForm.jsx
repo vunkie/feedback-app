@@ -65,7 +65,7 @@ function FeedbackForm() {
 	return (
 		<Card>
 			<form onSubmit={handleSubmit}>
-				<h2>Qual rate</h2>
+				<h2>Qual nota voce da?</h2>
 				<RatingSelect select={(rating) => setRating(rating)} />
 				<div className='input-group'>
 					<input

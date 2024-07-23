@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "Great app!"
+    },
+    {
+      "id": "2",
+      "rating": 9,
+      "text": "Nice work!"
+    },
+    {
+      "id": "3",
+      "rating": 7,
+      "text": "Could be better."
+    }
+  ]
+}
